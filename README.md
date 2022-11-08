@@ -24,7 +24,7 @@ I am college student, who is learning web development and many other things.
 ## 🌐 Connect With Me
 <p>
 <a href="https://linkedin.com/in/iamsatyajit"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px"></a>
-<a href="https://twitter.com/iamsatyajit05"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px"></a>
+<a href="https://twitter.com/0xSatyajit"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px"></a>
 </p>
 
 ## 📊 Github Status
